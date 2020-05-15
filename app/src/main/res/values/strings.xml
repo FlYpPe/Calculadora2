@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="l1"></string>
+    <string name="l2"></string>
+    <string name="l3"></string>
+    <string name="l4"></string>
+    <string name="l5"></string>
+
+    <string name="porc">%</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+    <string name="bs">BS</string>
+    <string name="inv">1/x</string>
+    <string name="pow2">X2</string>
+    <string name="sqrt">sqrt</string>
+    <string name="div">/</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="mult">X</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="men">-</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="sum">+</string>
+    <string name="sig">+/-</string>
+    <string name="cero">0</string>
+    <string name="punto">.</string>
+    <string name="igual">=</string>
+    <string name="dig">0</string>
+    <string name="MC">MC</string>
+    <string name="MR">MR</string>
+    <string name="mPlus">M+</string>
+    <string name="Mm">M-</string>
+    <string name="MS">MS</string>
+    <string name="Mg">Mª</string>
+
+</resources>
